@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EpicShiv
+- 👋 Hi, I’m @EpicShiv (Shiva).
 - 👀 I’m interested in ... Electronics, Devops and code building.
 - 🌱 I’m currently learning ... everything I can.
 - 💞️ I’m looking to collaborate on ... interesting projects.
